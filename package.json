@@ -1,0 +1,24 @@
+{
+  "name": "react-native-ui-toybox",
+  "version": "0.0.1",
+  "description": "This just an UI collection which for MyBigDay internel use. But really welcom every play whit it, even more pull requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pepper/react-native-ui-toybox.git"
+  },
+  "keywords": [
+    "UI",
+    "react",
+    "react-native"
+  ],
+  "author": "Pepper Yen <pepper.yen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pepper/react-native-ui-toybox/issues"
+  },
+  "homepage": "https://github.com/pepper/react-native-ui-toybox#readme"
+}
